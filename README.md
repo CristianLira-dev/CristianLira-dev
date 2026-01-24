@@ -96,3 +96,13 @@ Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus
   <img src="https://github-readme-stats.vercel.app/api?username=CristianLira-dev&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianLira-dev&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
+
+###
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianLira-dev&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  
+  <img width="10" height="1" />
+  
+  <img align="center" src="https://streak-stats.demolab.com?user=CristianLira-dev&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub Streak" />
+</div>
