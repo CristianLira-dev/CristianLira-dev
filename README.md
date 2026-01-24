@@ -29,8 +29,8 @@ Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus
 </p>
 
 <p align="left">
-🔭 <strong>Foco atual:</strong> React.js, Ecossistema Vue.js e Consumo de APIs.<br>
-🌱 <strong>Estudando:</strong> Performance Web, Arquitetura de Software e Three.js.<br>
+🔭 <strong>Foco atual:</strong> React.js, Vue.js, Ecossistema Nuxt.js e Consumo de APIs(Axios).<br>
+🌱 <strong>Estudando:</strong> Performance Web, Arquitetura de Software, Three.js e Gsap.<br>
 ⚡ <strong>Diferencial:</strong> Criação de interfaces imersivas e animações.
 </p>
 
