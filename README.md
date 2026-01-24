@@ -86,8 +86,8 @@ Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus
 
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
-| **[TaskFlow](https://github.com/CristianLira-dev/nome-do-repo-taskflow)** | React.js, Drag-n-Drop | Gerenciador de tarefas Kanban com lógica complexa de estado. |
-| **[AdotePatas](https://github.com/CristianLira-dev/nome-do-repo-adotepatas)** | JS, API, Filtros | Plataforma completa de conexão para adoção de animais. |
+| **[TaskFlow](https://github.com/CristianLira-dev/nome-do-repo-taskflow)** | Vue, Nuxt, Drag-n-Drop | Gerenciador de tarefas Kanban com lógica complexa de estado. |
+| **[AdotePatas](https://github.com/CristianLira-dev/TCC-AdotePatas)** | JS, API, Filtros | Plataforma completa de conexão para adoção de animais. |
 | **[Pizzaria Napoli](https://github.com/CristianLira-dev/nome-do-repo-pizzaria)** | GSAP, UI Design | Landing Page imersiva com animações de alta performance. |
 
 ###
