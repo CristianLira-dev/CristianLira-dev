@@ -91,6 +91,8 @@ Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus
 | **[AdotePatas](https://github.com/Diogo013/TCC-AdotePatas)** | JS, PHP, MySQL, Google Maps API | Plataforma Fullstack de adoção com geolocalização e gestão de banco de dados. |
 | **[Pizzaria Napoli](https://github.com/CristianLira-dev/Landing-Page-Pizzaria-Napoli)** | React (Hooks Avançados), GSAP | Landing Page imersiva utilizando `useRef` e `useLayoutEffect` para animações de alta performance. |
 
+**[Adote Patas Deploy](https://adotepatas.com/)**
+
 ###
 
 <div align="center">
