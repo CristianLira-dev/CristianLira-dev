@@ -97,7 +97,3 @@ Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianLira-dev&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CristianLira-dev&theme=dracula&hide_border=true" alt="Minha Streak" />
-</div>
-
