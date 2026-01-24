@@ -78,6 +78,7 @@ Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  
 </div>
 
 ###
@@ -86,9 +87,9 @@ Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus
 
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
-| **[TaskFlow](https://github.com/CristianLira-dev/nome-do-repo-taskflow)** | Vue, Nuxt, Drag-n-Drop | Gerenciador de tarefas Kanban com lógica complexa de estado. |
-| **[AdotePatas](https://github.com/CristianLira-dev/TCC-AdotePatas)** | JS, API, Filtros | Plataforma completa de conexão para adoção de animais. |
-| **[Pizzaria Napoli](https://github.com/CristianLira-dev/nome-do-repo-pizzaria)** | GSAP, UI Design | Landing Page imersiva com animações de alta performance. |
+| **[TaskFlow](https://github.com/CristianLira-dev/nome-do-repo-taskflow)** | Vue.js, Nuxt.js, Three.js, Sortable.js | Kanban moderno com elementos 3D interativos e Drag-and-Drop fluido. |
+| **[AdotePatas](https://github.com/CristianLira-dev/nome-do-repo-adotepatas)** | PHP, MySQL, Google Maps API | Plataforma Fullstack de adoção com geolocalização e gestão de banco de dados. |
+| **[Pizzaria Napoli](https://github.com/CristianLira-dev/nome-do-repo-pizzaria)** | React (Hooks Avançados), GSAP | Landing Page imersiva utilizando `useRef` e `useLayoutEffect` para animações de alta performance. |
 
 ###
 
