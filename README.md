@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">👋 Olá! Eu sou o Cristian Albertino.</h2>
+<h2 align="left">👋 Olá! Eu sou o Cristian Lira.</h2>
 
 ###
 
