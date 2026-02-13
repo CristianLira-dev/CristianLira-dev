@@ -167,16 +167,12 @@ Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus
 <h3 align="left">🚀 Projetos em Destaque</h3>
 
 
+### 🚀 Projetos em Destaque
 
 | Projeto | Tecnologias | Descrição |
-
 | :--- | :--- | :--- |
-
 | **[TaskFlow](https://github.com/CristianLira-dev/TaskFlow-Kanban)** | Vue.js, Nuxt.js, Three.js, Sortable.js | Kanban moderno com elementos 3D interativos e Drag-and-Drop fluido. |
-
+| **[Pizzaria Napoli](https://github.com/CristianLira-dev/Landing-Page-Pizzaria-Napoli)** | React (Hooks), GSAP | Landing Page imersiva utilizando `useRef` e `useLayoutEffect` para animações de alta performance. |
 | **[AdotePatas](https://github.com/Diogo013/TCC-AdotePatas)** | JS, PHP, MySQL, Google Maps API | Plataforma Fullstack de adoção com geolocalização e gestão de banco de dados. |
-
 | **[Floricultura Sistema](https://github.com/CristianLira-dev/Sistema-Floricultura)** | JS, PHP, MySQL, ViaCep API | Sistema de Gestão (ERP) com CRUD completo (Clientes, Estoque, RH) e cadastro automatizado de endereços. |
-
-| **[Pizzaria Napoli](https://github.com/CristianLira-dev/Landing-Page-Pizzaria-Napoli)** | React (Hooks Avançados), GSAP | Landing Page imersiva utilizando `useRef` e `useLayoutEffect` para animações de alta performance. |
 
