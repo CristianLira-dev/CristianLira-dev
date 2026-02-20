@@ -167,8 +167,6 @@ Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus
 <h3 align="left">🚀 Projetos em Destaque</h3>
 
 
-### 🚀 Projetos em Destaque
-
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
 | **[TaskFlow](https://github.com/CristianLira-dev/TaskFlow-Kanban)** | Vue.js, Nuxt.js, Three.js, Sortable.js | Kanban moderno com elementos 3D interativos e Drag-and-Drop fluido. |
