@@ -26,11 +26,7 @@
 
 <h2 align="left">👋 Olá! Eu sou o Cristian Lira.</h2>
 
-
-
 ###
-
-
 
 <p align="left">
 
