@@ -32,7 +32,7 @@
 
 Sou um <strong>Desenvolvedor Front-End</strong> apaixonado por criar interfaces web interativas, performáticas e visualmente impactantes. 
 
-<br><br>
+<br>
 
 Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus estudos atuais em <strong>ADS</strong>, busco construir soluções que unem código limpo, componentização eficiente e UX de alto nível.
 
