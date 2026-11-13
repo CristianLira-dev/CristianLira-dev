@@ -134,7 +134,7 @@ Atualmente contribuo com o desenvolvimento de um CRM SaaS na <strong>Mar Brasil<
 | :--- | :--- | :--- |
 | **[Lembraí](https://github.com/CristianLira-dev/Lembrai)** | React, Node.js, Python/FastAPI, PostgreSQL, Redis/BullMQ, WhatsApp API | Assistente acadêmico via WhatsApp — chatbot que organiza atividades e lembretes de faculdade. MVP com 85 commits e CI/CD via GitHub Actions. |
 | **[AuraFinance](https://github.com/CristianLira-dev/Aura-Finance)** | Vite, JavaScript, Supabase, Ollama (IA), Vercel + Render | Gerenciador de finanças pessoais com dashboard, importação de extratos (CSV/OFX/PDF), categorização por IA e modos claro/escuro. 296 commits em produção. |
-| **[AdotePatas](https://github.com/Diogo013/TCC-AdotePatas)** | JS, PHP, MySQL, Google Maps API | Plataforma fullstack de adoção de animais com geolocalização e gestão de banco de dados. Projeto de TCC. |
+| **[AdotePatas]((https://github.com/CristianLira-dev/TCC-AdotePatas))** | JS, PHP, MySQL, Google Maps API | Plataforma fullstack de adoção de animais com geolocalização e gestão de banco de dados. Projeto de TCC. |
 
 ###
 
