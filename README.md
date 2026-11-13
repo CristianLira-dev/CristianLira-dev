@@ -8,12 +8,12 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/cristian-albertino-de-lira-filho-280b52385/" target="_blank">
+  <a href="https://www.linkedin.com/in/cristian-lira-280b52385/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
   <a href="mailto:cristianfilho2008@outlook.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />
   </a>
 
 </div>
@@ -30,8 +30,9 @@
 
 <p align="left">
 
-Sou um <strong>Desenvolvedor Front-End</strong> apaixonado por criar interfaces web interativas, performáticas e visualmente impactantes. 
-Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus estudos atuais em <strong>ADS</strong>, busco construir soluções que unem código limpo, componentização eficiente e UX de alto nível.
+Sou um <strong>Desenvolvedor Front-End</strong> focado em aplicações web modernas, performáticas e responsivas.
+Trabalho com <strong>ReactJS, TypeScript e Next.js</strong>, com atenção a Clean Code, Design Patterns, testes de software e integração com APIs REST.
+Atualmente contribuo com o desenvolvimento de um CRM SaaS na <strong>Mar Brasil</strong>, onde ajudei a aumentar em <strong>37% as vendas da plataforma</strong>.
 
 </p>
 
@@ -39,9 +40,8 @@ Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus
 
 <p align="left">
 
-🎓 <strong>Formação Técnica:</strong> Técnico em Informática para Internet pela <strong>ETEC Centro Paula Souza</strong> (Praia Grande).<br>
-
-🎓 <strong>Graduação:</strong> Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas (UNIP).
+🎓 <strong>Graduação:</strong> Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas — <strong>FATEC Praia Grande</strong>.<br>
+🎓 <strong>Formação Técnica:</strong> Técnico em Informática para Internet — <strong>ETEC de Praia Grande</strong> (concluído em 2025).
 
 </p>
 
@@ -49,11 +49,9 @@ Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus
 
 <p align="left">
 
-🔭 <strong>Foco atual:</strong> React.js, Vue.js, Ecossistema Nuxt.js e Consumo de APIs(Axios).<br>
-
-🌱 <strong>Estudando:</strong> Performance Web, Arquitetura de Software, Three.js e Gsap.<br>
-
-⚡ <strong>Diferencial:</strong> Criação de interfaces imersivas e animações.
+🔭 <strong>Foco atual:</strong> ReactJS, TypeScript, Next.js, Context API e APIs REST.<br>
+🌱 <strong>Estudando:</strong> Redux Toolkit, Performance em React, Arquitetura de Software e Testes (Vitest).<br>
+⚡ <strong>Diferencial:</strong> Interfaces performáticas, componentização eficiente e resultado mensurável.
 
 </p>
 
@@ -65,89 +63,62 @@ Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus
 
 <h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
-
-
 ###
-
-
 
 <div align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-
   <img width="12" />
 
-  
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo" />
-
-  <img width="12" />
-
-  
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
-
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
   <img width="12" />
 
-  
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo" />
+  <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="40" alt="vitest logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-
-  <img width="12" />
-
-  
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
 
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 
 </div>
 
@@ -159,11 +130,13 @@ Combinando minha base técnica sólida formada na <strong>ETEC</strong> com meus
 
 <h3 align="left">🚀 Projetos em Destaque</h3>
 
-
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
-| **[TaskFlow](https://github.com/CristianLira-dev/TaskFlow-Kanban)** | Vue.js, Nuxt.js, Three.js, Sortable.js | Kanban moderno com elementos 3D interativos e Drag-and-Drop fluido. |
-| **[Pizzaria Napoli](https://github.com/CristianLira-dev/Landing-Page-Pizzaria-Napoli)** | React (Hooks), GSAP | Landing Page imersiva utilizando `useRef` e `useLayoutEffect` para animações de alta performance. |
-| **[AdotePatas](https://github.com/Diogo013/TCC-AdotePatas)** | JS, PHP, MySQL, Google Maps API | Plataforma Fullstack de adoção com geolocalização e gestão de banco de dados. |
-| **[Floricultura Sistema](https://github.com/CristianLira-dev/Sistema-Floricultura)** | JS, PHP, MySQL, ViaCep API | Sistema de Gestão (ERP) com CRUD completo (Clientes, Estoque, RH) e cadastro automatizado de endereços. |
+| **[Lembraí](https://github.com/CristianLira-dev/Lembrai)** | React, Node.js, Python/FastAPI, PostgreSQL, Redis/BullMQ, WhatsApp API | Assistente acadêmico via WhatsApp — chatbot que organiza atividades e lembretes de faculdade. MVP com 85 commits e CI/CD via GitHub Actions. |
+| **[AuraFinance](https://github.com/CristianLira-dev/Aura-Finance)** | Vite, JavaScript, Supabase, Ollama (IA), Vercel + Render | Gerenciador de finanças pessoais com dashboard, importação de extratos (CSV/OFX/PDF), categorização por IA e modos claro/escuro. 296 commits em produção. |
 
+###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" />
+</div>
