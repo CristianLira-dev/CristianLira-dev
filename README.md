@@ -32,7 +32,7 @@
 
 Sou um <strong>Desenvolvedor Front-End</strong> focado em aplicações web modernas, performáticas e responsivas.
 Trabalho com <strong>ReactJS, TypeScript e Next.js</strong>, com atenção a Clean Code, Design Patterns, testes de software e integração com APIs REST.
-Atualmente contribuo com o desenvolvimento de um CRM SaaS na <strong>Mar Brasil</strong>, onde ajudei a aumentar em <strong>37% as vendas da plataforma</strong>.
+Atualmente contribuo com o desenvolvimento de um CRM SaaS na <strong>Mar Brasil</strong>, onde ajudo na organização das vendas da plataforma.
 
 </p>
 
@@ -40,8 +40,8 @@ Atualmente contribuo com o desenvolvimento de um CRM SaaS na <strong>Mar Brasil<
 
 <p align="left">
 
-🎓 <strong>Graduação:</strong> Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas — <strong>FATEC Praia Grande</strong>.<br>
-🎓 <strong>Formação Técnica:</strong> Técnico em Informática para Internet — <strong>ETEC de Praia Grande</strong> (concluído em 2025).
+🎓 <strong>Graduação:</strong> Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas <strong>FATEC Praia Grande</strong>.<br>
+🎓 <strong>Formação Técnica:</strong> Técnico em Informática para Internet <strong>ETEC de Praia Grande</strong> (concluído em 2025).
 
 </p>
 
